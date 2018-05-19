@@ -26,7 +26,7 @@ import com.beini.core.properties.SecurityProperties;
 import com.beini.core.utils.StringUtil;
 
 /**
- * @author zhailiang
+ * @author lb_chen
  *
  */
 @Component("validateCodeFilter")
